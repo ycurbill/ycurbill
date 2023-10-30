@@ -8,7 +8,7 @@ I am looking for THE internship that will provide me with the opportunity to gro
 
 *   🌍  I'm based in Lyon, France (willingness to move within Europe)
 *   ✉️  You can contact me at [yvancurbillon888@gmail.com](mailto:yvancurbillon888@gmail.com)
-*   🧠  I'm learning Testing, Docker, and more of C++, React and DS&A
+*   🧠  I'm currently learning Front and Back-end web and mobile technologies
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
